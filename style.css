@@ -50,11 +50,35 @@ nav a:hover {
     text-align:center;
 }
 
+p {
+    text-align:center;
+}
+
 .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 25%;
+
+}
+
+.left {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+
+}
+
+.right{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+abbr {
+    color:blueviolet
 
 }
 img{
